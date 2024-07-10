@@ -1,0 +1,32 @@
+/* . for Class and # For Id */
+p {
+    color: rgba(15, 157, 201, 0.705);
+    font-size: 20px;
+    text-align: center;
+}
+.Ngo{
+    color:gold;
+    font-size: 90px;
+}
+#bruh{
+    text-align: center;
+    color: chartreuse;
+}
+.test{
+    background-color: bisque; /* Color Name Méthode */
+    background-color: rgb(255 155 30 / 30%); /* Rgb alpha methode */
+    background-color: #d3b30141; /* Exadeciaml coloring */
+    background-image: url("https://picsum.photos/seed/picsum/536/354");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    /* background-position: 100px 20px; */
+    background-size: contain;
+    /* Top right buttom left */
+    padding: 10px 20px;
+    margin-top: -50px;
+    /* border-width: 10px;
+    border-color: blueviolet green yellow red;
+    border-style: solid; */
+    border: 10px solid red;
+    outline: 10px solid black;
+}
